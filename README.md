@@ -4,14 +4,20 @@
 
 ## Links and Resources:
  ### Heroku:
+ 
+ - https://basicau.herokuapp.com/
 
 
 
 * ### Github Actions:
 
+- https://github.com/saleem-ux/basic-auth/actions
+
 
 
 * ### pull request :
+
+- https://github.com/saleem-ux/basic-auth/pull/2
 
 
 
